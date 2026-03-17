@@ -48,11 +48,18 @@ int main()
 
         if (opcao == 1)
         {
-            // Comprou carta - desempilha do topo
-            Carta c = desempilhar(&monte);
-            printf("Você comprou: ");
-            imprimirCarta(c);
+            if (estaVazia(&monte))
+            {
+                printf("Monte vazio!\n");
+            }
+            else
+            {
+                Carta c = desempilhar(&monte);
+                printf("Você comprou: ");
+                imprimirCarta(c);
+            }
         }
+
         else if (opcao == 2)
         {
             // Exibir todas as cartas restantes no monte
