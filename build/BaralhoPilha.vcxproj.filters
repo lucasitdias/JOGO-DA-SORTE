@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\lucas\Documents\Faculdade\Estrutura de Dados\AULA 05 - 040326\Trabalho -170326\JOGOS DA SORTE LTDA\BaralhoPilha\src\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lucas\Documents\Faculdade\Estrutura de Dados\AULA 05 - 040326\Trabalho -170326\JOGOS DA SORTE LTDA\BaralhoPilha\src\carta.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lucas\Documents\Faculdade\Estrutura de Dados\AULA 05 - 040326\Trabalho -170326\JOGOS DA SORTE LTDA\BaralhoPilha\src\pilha.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lucas\Documents\Faculdade\Estrutura de Dados\AULA 05 - 040326\Trabalho -170326\JOGOS DA SORTE LTDA\BaralhoPilha\src\utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lucas\Documents\Faculdade\Estrutura de Dados\AULA 05 - 040326\Trabalho -170326\JOGOS DA SORTE LTDA\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{01667356-6890-3E98-9F50-1A04B37D2D69}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

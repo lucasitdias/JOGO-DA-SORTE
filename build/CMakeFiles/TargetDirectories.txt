@@ -1,0 +1,3 @@
+C:/Users/lucas/Documents/Faculdade/Estrutura de Dados/AULA 05 - 040326/Trabalho -170326/JOGOS DA SORTE LTDA/build/CMakeFiles/BaralhoPilha.dir
+C:/Users/lucas/Documents/Faculdade/Estrutura de Dados/AULA 05 - 040326/Trabalho -170326/JOGOS DA SORTE LTDA/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/lucas/Documents/Faculdade/Estrutura de Dados/AULA 05 - 040326/Trabalho -170326/JOGOS DA SORTE LTDA/build/CMakeFiles/ZERO_CHECK.dir

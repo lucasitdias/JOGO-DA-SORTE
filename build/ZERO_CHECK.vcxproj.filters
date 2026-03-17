@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lucas\Documents\Faculdade\Estrutura de Dados\AULA 05 - 040326\Trabalho -170326\JOGOS DA SORTE LTDA\build\CMakeFiles\2759e4a9559c11af86c3a39fa9afc389\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F34160CB-46E3-34E1-9656-A031A7632DC7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

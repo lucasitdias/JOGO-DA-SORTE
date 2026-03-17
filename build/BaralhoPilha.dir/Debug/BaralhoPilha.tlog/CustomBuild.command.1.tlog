@@ -1,0 +1,10 @@
+^C:\USERS\LUCAS\DOCUMENTS\FACULDADE\ESTRUTURA DE DADOS\AULA 05 - 040326\TRABALHO -170326\JOGOS DA SORTE LTDA\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/lucas/Documents/Faculdade/Estrutura de Dados/AULA 05 - 040326/Trabalho -170326/JOGOS DA SORTE LTDA" "-BC:/Users/lucas/Documents/Faculdade/Estrutura de Dados/AULA 05 - 040326/Trabalho -170326/JOGOS DA SORTE LTDA/build" --check-stamp-file "C:/Users/lucas/Documents/Faculdade/Estrutura de Dados/AULA 05 - 040326/Trabalho -170326/JOGOS DA SORTE LTDA/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
